@@ -1,0 +1,286 @@
+ï»¿spcode,class,subclass,order,family,genus,species,authority_species,subspecies,authority_subspecies,EUROMED_taxon_name,Browicz_taxon_name,Kew_taxon_name
+AALB,Pinopsida,Pinidae,Pinales,Pinaceae,Abies,alba, Mill.,,,Abies alba Mill.,,Abies alba Mill.
+ABOR,Pinopsida,Pinidae,Pinales,Pinaceae,Abies,borisii-regis, Mattf.,,,Abies borisii-regis Mattf.,, Abies × borisii-regis Mattf.
+ACEP,Pinopsida,Pinidae,Pinales,Pinaceae,Abies,cephalonica, Loudon,,,Abies cephalonica Loudon,,Abies cephalonica Loudon
+ANEB,Pinopsida,Pinidae,Pinales,Pinaceae,Abies,nebrodensis, (Lojac.) Mattei,,,Abies nebrodensis (Lojac.) Mattei,,Abies nebrodensis (Lojac.) Mattei
+APIN,Pinopsida,Pinidae,Pinales,Pinaceae,Abies,pinsapo, Boiss,,,Abies pinsapo Boiss.,,Abies pinsapo Boiss.
+ACAM,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,campestre, L.,,,,Acer campestre L. sensu lato,
+ACAMc,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,campestre, L.,campestre,,,,
+ACAMl,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,campestre, L.,leiocarpum,(Opiz) Pax,,,
+ACAMm,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,campestre, L.,marsicum,(Guss.) Hayek,,,
+ACAP,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,cappadocicum, Gled.,,,,,
+ACAPl,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,cappadocicum, Gled.,lobelii,(Ten.) A.E. Murray,,,Acer cappadocicum subsp. lobelii (Ten.) A.E.Murray
+AHEL,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,heldreichii, Orph. ex Boiss.,,,,,
+AHELh,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,heldreichii, Orph. ex Boiss.,heldreichii,,,,
+AHYR,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,hyrcanum, Fischer & C.A. Meyer,,,,Acer hyrcanum Fischer & C.A. Mey. sensu lato,
+AHYRh,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,hyrcanum, Fischer & C.A. Meyer,hyrcanum,,,,
+AHYRi,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,hyrcanum, Fischer & C.A. Meyer,intermedium,Pancic,,,
+AHYRr,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,hyrcanum, Fischer & C.A. Meyer,reginae-amaliae,(Boiss.) E. Murray,,,
+AMON,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,monspessulanum, L.,,,,Acer monspessulanum L. sensu lato,
+AMONi,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,monspessulanum, L.,microphyllum,(Boiss.) Bornm.,,,
+AMONo,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,monspessulanum, L.,monspessulanum,,,,
+AOBT,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,obtusifolium, Sm.,,,,Acer syriacum Boiss. & Gaill.,
+AOPA,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,opalus, Mill.,,,,,
+AOPAg,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,opalus, Mill.,granatense,(Boiss.) Font Quer & Rothm.,,,Acer granatense Boiss.
+AOPAb,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,opalus, Mill.,obtusatum,(Willd.) Gams.,,,
+AOPAp,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,opalus, Mill.,opalus,,,,
+APLA,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,platanoides, L.,,,,Acer platanoides L.,
+APSE,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,pseudoplatanus, L.,,,,,
+ASEM,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,sempervirens, L.,,,,Acer sempervirens L.,
+ATAT,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Acer,tataricum, L.,,,,Acer tataricum L.,
+AHIP,Magnoliopsida,Rosanae,Sapindales,Sapindaceae,Aesculus,hippocastanum, L.,,,,,
+ACOR,Magnoliopsida,Rosanae,Fagales,Betulaceae,Alnus,cordata, (Loisel.) Loisel.,,,Alnus cordata (Loisel.) Duby,,Alnus cordata (Loisel.) Duby
+AGLU,Magnoliopsida,Rosanae,Fagales,Betulaceae,Alnus,glutinosa, (L.) Gaertn.,,,,,
+AGLUg,Magnoliopsida,Rosanae,Fagales,Betulaceae,Alnus,glutinosa, (L.) Gaertn.,glutinosa,,Alnus glutinosa (L.) Gaertn. subsp. glutinosa,Alnus glutinosa (L.) Gaertner,Alnus glutinosa (L.) Gaertn. subsp. glutinosa
+AINC,Magnoliopsida,Rosanae,Fagales,Betulaceae,Alnus,incana, (L.) Moench,,,,,
+AINCi,Magnoliopsida,Rosanae,Fagales,Betulaceae,Alnus,incana, (L.) Moench,incana,,Alnus incana (L.) Moench subsp. incana,,Alnus incana (L.) Moench
+ALUS,Magnoliopsida,Rosanae,Fagales,Betulaceae,Alnus,lusitanica," Vít, Douda & Mandák",,,,,
+AORI,Magnoliopsida,Rosanae,Fagales,Betulaceae,Alnus,orientalis, Decne.,,,Alnus orientalis Decne.,Alnus orientalis Decne.,Alnus orientalis Decne.
+AROH,Magnoliopsida,Rosanae,Fagales,Betulaceae,Alnus,rohlenae," Vít, Douda & Mandák",,,,,
+AVIR,Magnoliopsida,Rosanae,Fagales,Betulaceae,Alnus,viridis, (Chaix) DC.,,,Alnus viridis (Chaix) DC.,,Alnus alnobetula (Ehrh.) K.Koch
+AVIRs,Magnoliopsida,Rosanae,Fagales,Betulaceae,Alnus,viridis, (Chaix) DC.,suaveolens,(Req.) P. W. Ball,Alnus viridis (Chaix) DC. subsp. suaveolens (Req.) P. W. Ball,,Alnus alnobetula (Ehrh.) K.Koch subsp. suaveolens (Req.) Lambinon & Kerguélen
+AVIRv,Magnoliopsida,Rosanae,Fagales,Betulaceae,Alnus,viridis, (Chaix) DC.,viridis,,Alnus viridis (Chaix) DC. subsp. viridis,,Alnus alnobetula (Ehrh.) K.Koch subsp. alnobetula
+AAND,Magnoliopsida,Asteranae,Ericales,Ericaceae,Arbutus,andrachne, L.,,,Arbutus andrachne L.,Arbutus andrachne L.,
+AUNE,Magnoliopsida,Asteranae,Ericales,Ericaceae,Arbutus,unedo, L.,,,Arbutus unedo L.,Arbutus unedo L.,
+BPEN,Magnoliopsida,Rosanae,Fagales,Betulaceae,Betula,pendula, Roth,,,Betula pendula Roth,Betula pendula Roth sensu lato,Betula pendula Roth
+BPENf,Magnoliopsida,Rosanae,Fagales,Betulaceae,Betula,pendula, Roth,fontqueri,(Rothm.) Moreno & Peinado,Betula pendula Roth var. fontqueri (Rothm.) G. Moreno & Peinado,,Betula pendula Roth var. fontqueri (Rothm.) G.Moreno & Peinado
+BPENp,Magnoliopsida,Rosanae,Fagales,Betulaceae,Betula,pendula, Roth,pendula,,Betula pendula Roth var. pendula,,Betula pendula Roth var. pendula
+BPUB,Magnoliopsida,Rosanae,Fagales,Betulaceae,Betula,pubescens, Ehrh.,,,Betula pubescens Ehrh. var. pubescens,,Betula pubescens Ehrh. var. pubescens
+BBAL,Magnoliopsida,Buxanae,Buxales,Buxaceae,Buxus,balearica, Lam.,,,,Buxus balearica Lam.,
+BSEM,Magnoliopsida,Buxanae,Buxales,Buxaceae,Buxus,sempervirens, L.,,,,Buxus sempervirens L.,
+CBET,Magnoliopsida,Rosanae,Fagales,Betulaceae,Carpinus,betulus, L.,,,Carpinus betulus L.,Carpinus betulus L.,Carpinus betulus L.
+CAOR,Magnoliopsida,Rosanae,Fagales,Betulaceae,Carpinus,orientalis, Mill.,,,Carpinus orientalis Mill. subsp. orientalis,Carpinus orientalis Miller,Carpinus orientalis Mill.
+CSAT,Magnoliopsida,Rosanae,Fagales,Fagaceae,Castanea,sativa, Mill.,,,Castanea sativa Mill.,Castanea sativa Miller,Castanea sativa Mill.
+CLIB,Pinopsida,Pinidae,Pinales,Pinaceae,Cedrus,libani, A. Richard,,,,,
+CLIBb,Pinopsida,Pinidae,Pinales,Pinaceae,Cedrus,libani, A. Richard,brevifolia,(Hooker fil.) Meikle,Cedrus libani A. Rich. subsp. brevifolia (Hook. f.) Meikle,Cedrus libani A. Rich. sensu lato,Cedrus brevifolia (Hook.f.) Elwes & A.Henry
+CAUS,Magnoliopsida,Rosanae,Rosales,Cannabaceae,Celtis,australis, L.,,,Celtis australis L.,Celtis australis L.,
+CPLA,Magnoliopsida,Rosanae,Rosales,Cannabaceae,Celtis,planchoniana, K.I. Chr.,,,Celtis planchoniana K.I. Chr.,Celtis glabrata Steven,Celtis planchoniana K.I. Chr.
+CTOU,Magnoliopsida,Rosanae,Rosales,Cannabaceae,Celtis,tournefortii, Lam.,,,Celtis tournefortii Lam.,Celtis tournefortii Lam. sensu lato,
+CSIA,Magnoliopsida,Rosanae,Fabales,Fabaceae,Ceratonia,siliqua, L.,,,Ceratonia siliqua L.,Ceratonia siliqua L.,
+CSIM,Magnoliopsida,Rosanae,Fabales,Fabaceae,Cercis,siliquastrum, L.,,,Cercis siliquastrum L.,Cercis siliquastrum L.,
+CHUM,Magnoliopsida,Lilianae,Arecales,Arecaceae,Chamaerops,humilis, L.,,,Chamaerops humilis L.,,Chamaerops humilis L.
+CCOG,Magnoliopsida,Rosanae,Sapindales,Anacardiaceae,Cotinus,coggygria, Scop.,,,,,
+CAVE,Magnoliopsida,Rosanae,Fagales,Betulaceae,Corylus,avellana, L.,,,Corylus avellana L.,Corylus avellana L.,Corylus avellana L.
+CCOL,Magnoliopsida,Rosanae,Fagales,Betulaceae,Corylus,colurna, L.,,,Corylus colurna L.,Corylus colurna L.,Corylus colurna L.
+CGRA,Magnoliopsida,Rosanae,Rosales,Rosaceae,Cotoneaster,granatensis, Boiss.,,,Cotoneaster granatensis Boiss.,,
+CAZA,Magnoliopsida,Rosanae,Rosales,Rosaceae,Crataegus,azarolus, L.,,,Crataegus azarolus L.,Crataegus aronia (L.) Bosc. ex DC.,
+CHEL,Magnoliopsida,Rosanae,Rosales,Rosaceae,Crataegus,heldreichii, Boiss.,,,Crataegus heldreichii Boiss.,,
+CLAC,Magnoliopsida,Rosanae,Rosales,Rosaceae,Crataegus,laciniata, Ucria,,,Crataegus laciniata Ucria,,Crataegus laciniata Ucria
+CLAE,Magnoliopsida,Rosanae,Rosales,Rosaceae,Crataegus,laevigata, (Poir.) DC.,,,Crataegus laevigata (Poir.) DC.,,Crataegus laevigata (Poir.) DC.
+CMON,Magnoliopsida,Rosanae,Rosales,Rosaceae,Crataegus,monogyna, Jacq.,,,Crataegus monogyna Jacq.,Crataegus monogyna Jacq.,Crataegus monogyna Jacq.
+CNEV,Magnoliopsida,Rosanae,Rosales,Rosaceae,Crataegus,nevadensis, K. I. Chr.,,,Crataegus nevadensis K. I. Chr.,,Crataegus nevadensis K. I. Chr.
+CROR,Magnoliopsida,Rosanae,Rosales,Rosaceae,Crataegus,orientalis, Pall. ex M. Bieb.,,,Crataegus orientalis M. Bieb.,Crataegus orientalis Pallas ex M. Bieb.,Crataegus orientalis M. Bieb.
+CRORo,Magnoliopsida,Rosanae,Rosales,Rosaceae,Crataegus,orientalis, Pall. ex M. Bieb.,orientalis,,,,
+CRORs,Magnoliopsida,Rosanae,Rosales,Rosaceae,Crataegus,orientalis, Pall. ex M. Bieb.,szovitsii,(Pojark.) K.I. Chr.,,,
+CPEN,Magnoliopsida,Rosanae,Rosales,Rosaceae,Crataegus,pentagyna, Willd.,,,Crataegus pentagyna Willd.,Crataegus pentagyna Waldst & Kit.,Crataegus pentagyna Willd.
+CPYC,Magnoliopsida,Rosanae,Rosales,Rosaceae,Crataegus,pycnoloba, Boiss. & Heldr.,,,Crataegus pycnoloba Boiss. & Heldr.,,
+CSEM,Pinopsida,Pinidae,Pinales,Cupressaceae,Cupressus,sempervirens, L.,,,Cupressus sempervirens L.,Cupressus sempervirens L.,Cupressus sempervirens L.
+CAEO,Magnoliopsida,Rosanae,Fabales,Fabaceae,Cytisus,aeolicus, Guss.,,,Cytisus aeolicus Guss.,,
+EARB,Magnoliopsida,Asteranae,Ericales,Ericaceae,Erica,arborea, L.,,,Erica arborea L.,Erica arborea L.,
+FORI,Magnoliopsida,Rosanae,Fagales,Fagaceae,Fagus,orientalis, Lipsky,,,Fagus orientalis Lipsky,Fagus orientalis Lipsky,Fagus orientalis Lipsky
+FSYL,Magnoliopsida,Rosanae,Fagales,Fagaceae,Fagus,sylvatica, L.,,,Fagus sylvatica L.,,Fagus sylvatica L.
+FCAR,Magnoliopsida,Rosanae,Rosales,Moraceae,Ficus,carica, L.,,,Ficus carica L.,Ficus carica L.,
+FPHI,Magnoliopsida,Asteranae,Lamiales,Oleaceae,Fontanesia,philliraeoides, Labill.,,,Fontanesia phillyreoides Labill.,Fontanesia phillyreoides Labill.,Fontanesia phillyreoides Labill.
+FALN,Magnoliopsida,Rosanae,Rosales,Rhamnaceae,Frangula,alnus, Mill.,,,,Frangula alnus Miller sensu lato,
+FALNa,Magnoliopsida,Rosanae,Rosales,Rhamnaceae,Frangula,alnus, Mill.,alnus,,,,Frangula alnus Mill. subsp. alnus
+FALNb,Magnoliopsida,Rosanae,Rosales,Rhamnaceae,Frangula,alnus, Mill.,baetica,(E. Rev. & Willk.) Rivas Goday ex Devesa,,,Frangula alnus Mill. subsp. baetica (E. Rev. & Willk.) Rivas Goday ex Devesa
+FANG,Magnoliopsida,Asteranae,Lamiales,Oleaceae,Fraxinus,angustifolia, Vahl,,,Fraxinus angustifolia Vahl,Fraxinus angustifolia Vahl sensu lato,Fraxinus angustifolia Vahl
+FANGa,Magnoliopsida,Asteranae,Lamiales,Oleaceae,Fraxinus,angustifolia, Vahl,angustifolia,,Fraxinus angustifolia Vahl subsp. angustifolia,,Fraxinus angustifolia Vahl subsp. angustifolia
+FANGo,Magnoliopsida,Asteranae,Lamiales,Oleaceae,Fraxinus,angustifolia, Vahl,oxycarpa,(Willd.) Franco & Rocha,Fraxinus angustifolia Vahl subsp. oxycarpa (Willd.) Franco & Rocha Afonso,,Fraxinus angustifolia Vahl subsp. oxycarpa (Willd.) Franco & Rocha Afonso
+FEXC,Magnoliopsida,Asteranae,Lamiales,Oleaceae,Fraxinus,excelsior, L.,,,Fraxinus excelsior L.,Fraxinus excelsior L. sensu lato,Fraxinus excelsior L.
+FORN,Magnoliopsida,Asteranae,Lamiales,Oleaceae,Fraxinus,ornus, L.,,,Fraxinus ornus L. subsp. ornus,Fraxinus ornus L.,Fraxinus ornus L. subsp. ornus
+FPAL,Magnoliopsida,Asteranae,Lamiales,Oleaceae,Fraxinus,pallisae, Wilmott,,,,,
+GETN,Magnoliopsida,Rosanae,Fabales,Fabaceae,Genista,etnensis, (Biv.) DC.,,,Genista aetnensis (Biv.) DC.,,
+GTYR,Magnoliopsida,Rosanae,Fabales,Fabaceae,Genista,tyrrhena, Valsecchi,,,,,
+IAQU,Magnoliopsida,Asteranae,Aquifoliales,Aquifoliaceae,Ilex,aquifolium, L.,,,Ilex aquifolium L.,,
+JREG,Magnoliopsida,Rosanae,Fagales,Juglandaceae,Juglans,regia, L.,,,Juglans regia L.,,
+JCOM,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,communis, L.,,,,,
+JCOMc,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,communis, L.,communis,,Juniperus communis L. subsp. communis,Juniperus communis L.,Juniperus communis L.
+JDEL,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,deltoides, R. P. Adams,,,,,
+JDRU,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,drupacea, Labill.,,,Juniperus drupacea Labill.,Juniperus drupacea Labill.,Juniperus drupacea Labill.
+JEXC,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,excelsa, M. Bieb.,,,Juniperus excelsa M. Bieb.,Juniperus excelsa Bieb.,Juniperus excelsa M.Bieb.
+JFOE,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,foetidissima, Willd.,,,Juniperus foetidissima Willd.,Juniperus foetidissima Willd.,Juniperus foetidissima Willd.
+JMAC,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,macrocarpa, Sm.,,, Juniperus oxycedrus L. subsp. macrocarpa (Sm.) Ball,,Juniperus macrocarpa Sm.
+JNAV,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,navicularis, Gand.,,,Juniperus oxycedrus L.subsp. transtagana Franco,,Juniperus navicularis Gand.
+JOXY,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,oxycedrus, L.,,,Juniperus oxycedrus L.,Juniperus oxycedrus L. sensu lato,Juniperus oxycedrus L.
+JOXYb,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,oxycedrus, L.,badia,(H. Gay) Debeaux,Juniperus oxycedrus L. subsp. badia (H. Gay) Debeaux,,Juniperus oxycedrus L. var. badia (H.Gay) Debeaux
+JOXYo,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,oxycedrus, L.,oxycedrus,,Juniperus oxycedrus L. subsp. oxycedrus,,Juniperus oxycedrus L.
+JPHO,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,phoenicea, L.,,,,,
+JPHOp,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,phoenicea, L.,phoenicea,,Juniperus phoenicea L. subsp. phoenicea,Juniperus phoenicea L. sensu lato,Juniperus phoenicea L.
+JPHOt,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,phoenicea, L.,turbinata,(Guss.) Nyman,Juniperus phoenicea subsp. turbinata (Guss.) Nyman,,Juniperus phoenicea L. var. turbinata (Guss.) Parl.
+JTHU,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,thurifera, L.,,,,,
+JTHUt,Pinopsida,Pinidae,Pinales,Cupressaceae,Juniperus,thurifera, L.,thurifera,,Juniperus thurifera L.,,Juniperus thurifera L. var. thurifera
+LNOB,Magnoliopsida,Magnolianae,Laurales,Lauraceae,Laurus,nobilis, L.,,,,Laurus nobilis L.,
+LORI,Magnoliopsida,Saxifraganae,Saxifragales,Altingiaceae ,Liquidambar,orientalis, Miller,,,Liquidambar orientalis Mill.,Liquidambar orientalis Miller,
+LARB,Magnoliopsida,Asteranae,Dipsacales,Caprifoliaceae,Lonicera,arborea, Boiss.,,,,,
+MDAS,Magnoliopsida,Rosanae,Rosales,Rosaceae,Malus,dasyphylla, Borkh.,,,Malus dasyphylla Borkh.,,Malus dasyphylla Borkh.
+MFLO,Magnoliopsida,Rosanae,Rosales,Rosaceae,Malus,florentina, (Zuccagni) C.K. Schneider,,,Malus florentina (Zuccagni) C. K. Schneid.,,Malus florentina (Zuccagni) C. K. Schneid.
+MSYL,Magnoliopsida,Rosanae,Rosales,Rosaceae,Malus,sylvestris, Mill.,,,,,
+MSYLs,Magnoliopsida,Rosanae,Rosales,Rosaceae,Malus,sylvestris, Mill.,sylvestris,,Malus sylvestris (L.) Mill. subsp. sylvestris,,Malus sylvestris Mill. 
+MTRI,Magnoliopsida,Rosanae,Rosales,Rosaceae,Malus,trilobata, (Labill.) C.K. Schneider,,,Malus trilobata (Poir.) C. K. Schneid.,Eriolobus trilobatus (Poir.) Roemer,Malus trilobata (Labill.) C.K. Schneider
+MFAY,Magnoliopsida,Rosanae,Fagales,Myricaceae,Myrica,faya, Aiton,,,,,
+MCOM,Magnoliopsida,Rosanae,Myrtales,Myrtaceae,Myrtus,communis, L.,,,Myrtus communis L.,Myrtus communis L.,Myrtus communis L.
+NOLE,Magnoliopsida,Asteranae,Gentianales,Apocynaceae,Nerium,oleander, L.,,,Nerium oleander L. subsp. oleander,Nerium oleander L.,Nerium oleander L.
+OEUR,Magnoliopsida,Asteranae,Lamiales,Oleaceae,Olea,europaea, L.,,,Olea europaea L. subsp. europaea,Olea europaea L.,Olea europaea L. subsp. europaea
+OCAR,Magnoliopsida,Rosanae,Fagales,Betulaceae,Ostrya,carpinifolia, Scop.,,,Ostrya carpinifolia Scop.,Ostrya carpinifolia Scop.,Ostrya carpinifolia Scop.
+PANG,Magnoliopsida,Asteranae,Lamiales,Oleaceae,Phillyrea,angustifolia, L.,,,Phillyrea angustifolia L.,Phillyrea angustifolia L.,Phillyrea angustifolia L.
+PLAT,Magnoliopsida,Asteranae,Lamiales,Oleaceae,Phillyrea,latifolia, L.,,,Phillyrea latifolia L. [incl. : P. media],Phillyrea latifolia L.,Phillyrea latifolia L.
+PTHE,Magnoliopsida,Lilianae,Arecales,Arecaceae,Phoenix,theophrasti, Greuter,,,Phoenix theophrasti Greuter,Phoenix theophrasti Greuter,Phoenix theophrasti Greuter
+PBRU,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,brutia, Ten.,,,Pinus brutia Ten.,Pinus brutia Ten.,Pinus brutia Ten.
+PHAL,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,halepensis, Miller,,,Pinus halepensis Mill.,,Pinus halepensis Miller
+PHEL,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,heldreichii, Christ,,,Pinus heldreichii H. Christ,,Pinus heldreichii H.Christ
+PMUG,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,mugo, Turra,,,Pinus mugo Turra subsp. mugo,,Pinus mugo Turra
+PMUGm,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,mugo, Turra,mugo,,Pinus mugo Turra subsp. mugo,,Pinus mugo Turra
+PINI,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,nigra, J.F. Arnold,,,Pinus nigra J. F. Arnold,Pinus nigra Arn. sensu lato,Pinus nigra J. F. Arnold
+PINIc,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,nigra, J.F. Arnold,caramanica,(Loudon) Businský,Pinus nigra J. F. Arnold subsp. pallasiana (D. Don) Holmboe p.p.,,Pinus nigra J. F. Arnold subsp. pallasiana (D. Don) Holmboe p.p.
+PINId,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,nigra, J.F. Arnold,dalmatica,(Visiani) Franco,Pinus nigra J. F. Arnold subsp. dalmatica (Vis.) Franco,,Pinus nigra J.F.Arnold subsp. dalmatica (Vis.) Franco
+PINIl,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,nigra, J.F. Arnold,laricio,(Poiret) Maire,Pinus nigra subsp. laricio Maire,,Pinus nigra J.F.Arnold subsp. laricio Maire
+PINIn,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,nigra, J.F. Arnold,nigra,,Pinus nigra J. F. Arnold subsp. nigra,,Pinus nigra Arnold subsp. nigra
+PINIp,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,nigra, J.F. Arnold,pallasiana,(Lambert) Holmboe,Pinus nigra J. F. Arnold subsp. pallasiana (D. Don) Holmboe,,Pinus nigra J.F.Arnold subsp. pallasiana (Lamb.) Holmboe
+PINIs,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,nigra, J.F. Arnold,salzmannii,(Dunal) Franco,Pinus nigra J. F. Arnold subsp. salzmannii (Dunal) Franco,,Pinus nigra J.F.Arnold subsp. salzmannii (Dunal) Franco
+PPIR,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,pinaster, Aiton,,,Pinus pinaster Aiton,,Pinus pinaster Aiton
+PPIRe,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,pinaster, Aiton,escarena,(Risso) K. Richt.,Pinus pinaster Aiton subsp. escarena (Risso) K. Richt.,,Pinus pinaster Aiton subsp. escarena (Risso) K.Richt.
+PPIRp,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,pinaster, Aiton,pinaster,,Pinus pinaster Aiton subsp. pinaster,,Pinus pinaster Aiton subsp. pinaster
+PPIA,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,pinea, L.,,,Pinus pinea L.,Pinus pinea L.,Pinus pinea L.
+PSYL,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,sylvestris, L.,,,Pinus sylvestris L.,Pinus sylvestris L.,Pinus sylvestris L.
+PUNC,Pinopsida,Pinidae,Pinales,Pinaceae,Pinus,uncinata, Ramond ex DC.,,,Pinus uncinata DC.,,Pinus uncinata Ramond ex DC.
+PATL,Magnoliopsida,Rosanae,Sapindales,Anacardiaceae,Pistacia,atlantica, Desf.,,,,Pistacia atlantica Desf.,
+PLEN,Magnoliopsida,Rosanae,Sapindales,Anacardiaceae,Pistacia,lentiscus, L.,,,,Pistacia lentiscus L,
+PTER,Magnoliopsida,Rosanae,Sapindales,Anacardiaceae,Pistacia,terebinthus, L.,,,,Pistacia terebinthus L.,
+PORI,Magnoliopsida,Proteanae,Proteales,Platanaceae,Platanus,orientalis, L.,,,Platanus orientalis L.,Platanus orientalis L.,
+PALB,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Populus,alba, L.,,,Populus alba L.,,
+PONI,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Populus,nigra, L.,,,Populus nigra L.,,
+PTRE,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Populus,tremula, L.,,,Populus tremula L.,Populus tremula L.,
+PAVI,Magnoliopsida,Rosanae,Rosales,Rosaceae,Prunus,avium, L.,,,Prunus avium (L.) L.,Cerasus avium (L.) Moench.,Prunus avium L
+PBRI,Magnoliopsida,Rosanae,Rosales,Rosaceae,Prunus,brigantina, Vill.,,,Prunus brigantina Vill.,,Prunus brigantina Vill.
+PCER,Magnoliopsida,Rosanae,Rosales,Rosaceae,Prunus,cerasifera, Ehrh.,,,Prunus cerasifera Ehrh.,,Prunus cerasifera Ehrh.
+PCOC,Magnoliopsida,Rosanae,Rosales,Rosaceae,Prunus,cocomilia, Ten.,,,Prunus cocomilia Ten.,,Prunus cocomilia Ten.
+PLUS,Magnoliopsida,Rosanae,Rosales,Rosaceae,Prunus,lusitanica, L.,,,,,Prunus lusitanica L.
+PLUSl,Magnoliopsida,Rosanae,Rosales,Rosaceae,Prunus,lusitanica, L.,lusitanica,,Prunus lusitanica L. subsp. lusitanica,,Prunus lusitanica L. subsp. lusitanica
+PMAH,Magnoliopsida,Rosanae,Rosales,Rosaceae,Prunus,mahaleb, L.,,,Prunus mahaleb L.,Cerasus mahaleb (L.) Miller,Prunus mahaleb L.
+PPAD,Magnoliopsida,Rosanae,Rosales,Rosaceae,Prunus,padus, L.,,,Prunus padus L. ,,Prunus padus L.
+PWEB,Magnoliopsida,Rosanae,Rosales,Rosaceae,Prunus,webbii, (Spach) Vierh.,,,Prunus webbii (Spach) Vierh.,Amygdalus webbii Spach,Prunus webbii (Spach) Vierh.
+PBOU,Magnoliopsida,Rosanae,Rosales,Rosaceae,Pyrus,bourgaeana, Decne.,,,Pyrus bourgaeana Decne.,,
+PCOR,Magnoliopsida,Rosanae,Rosales,Rosaceae,Pyrus,cordata, Desv.,,,Pyrus cordata Desv.,,
+PELA,Magnoliopsida,Rosanae,Rosales,Rosaceae,Pyrus,elaeagrifolia, Pall.,,,,,
+PPYR,Magnoliopsida,Rosanae,Rosales,Rosaceae,Pyrus,pyraster, (L.) Burgsd.,,,Pyrus communis L. subsp. pyraster (L.) Ehrh.,Pyrus communis L.,Pyrus pyraster (L.) Burgsd.
+PSPI,Magnoliopsida,Rosanae,Rosales,Rosaceae,Pyrus,spinosa, Forssk.,,,Pyrus spinosa Forssk.,Pyrus spinosa Forssk.,unresolved
+PSYR,Magnoliopsida,Rosanae,Rosales,Rosaceae,Pyrus,syriaca, Boiss.,,,Pyrus syriaca Boiss.,Pyrus syriaca Boiss.,
+QALN,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,alnifolia, Poech,,,Quercus alnifolia Poech,Quercus alnifolia Poech,Quercus alnifolia Poech
+QAUC,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,aucheri, Jaub. & Spach,,,Quercus aucheri Jaub. & Spach,Quercus aucheri Jaub. & Spach,Quercus aucheri Jaub. & Spach
+QCAN,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,canariensis, Willd.,,,Quercus canariensis Willd.,,Quercus canariensis Willd.
+QCER,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,cerris, L.,,,Quercus cerris L.,Quercus cerris L.,Quercus cerris L.
+QCOC,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,coccifera, L.,,,Quercus coccifera L.,Quercus coccifera L.,Quercus coccifera L.
+QCON,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,congesta, C. Presl,,,Quercus congesta C. Presl,,Quercus congesta C.Presl
+QCRE,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,crenata, Lam.,,,Quercus crenata Lam.,,Quercus crenata Lam.
+QDAL,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,dalechampii, Ten.,,,Quercus dalechampii Ten.,Quercus petraea (Mattuschka) Liebl.,Quercus dalechampii Ten.
+QFAG,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,faginea, Lam.,,,Quercus faginea Lam.,,Quercus faginea Lam.
+QFAGb,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,faginea, Lam.,broteroi,(Cout.) A.Camus,Quercus faginea Lam. subsp. broteroi (Cout.) A. Camus,,Quercus faginea Lam. subsp. broteroi (Cout.) A.Camus
+QFAGf,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,faginea, Lam.,faginea,,Quercus faginea Lam. subsp. faginea,,Quercus faginea Lam. subsp. faginea
+QFRA,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,frainetto, Ten.,,,Quercus frainetto Ten.,Quercus frainetto Ten.,Quercus frainetto Ten.
+QGUS,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,gussonei, (Borzí) Brullo,,,Quercus gussonei (Borzí) Brullo,,Quercus gussonei (Borzí) Brullo
+QICH,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,ichnusae," Mossa, Bacch. & Brullo",,,"Quercus ichnusae Mossa, Bacch. & Brullo",,"Quercus ichnusae Mossa, Bacch. & Brullo"
+QILE,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,ilex, L.,,,Quercus ilex L.,Quercus ilex L. sensu lato,Quercus ilex L.
+QILEi,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,ilex, L.,ilex,,Quercus ilex L.,,Quercus ilex L.
+QILEr,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,ilex, L.,rotundifolia,(Lam.) T. Morais,Quercus rotundifolia Lam.,,Quercus rotundifolia Lam.
+QINF,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,infectoria, Olivier,,,Quercus infectoria G. Olivier,Quercus infectoria G. Olivier sensu lato,Quercus infectoria G.Olivier
+QINFi,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,infectoria, Olivier,infectoria,,Quercus infectoria G. Olivier subsp. infectoria,,Quercus infectoria G.Olivier subsp. infectoria
+QINFv,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,infectoria, Olivier,veneris,(A. Kerner) Meikle,Quercus infectoria G. Olivier subsp. veneris (A. Kern.) Meikle,,Quercus infectoria G.Olivier subsp. veneris (A.Kern.) Meikle
+QITH,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,ithaburensis, Decaisne,,,Quercus ithaburensis Decne. subsp. macrolepis (Kotschy) Hedge & Yalt.,Quercus macrolepis Kotschy,Quercus ithaburensis Decne. subsp. macrolepis (Kotschy) Hedge & Yalt.
+QITHm,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,ithaburensis, Decaisne,macrolepis,(Kotschy) Hedge & Yalt.,Quercus ithaburensis Decne. subsp. macrolepis (Kotschy) Hedge & Yalt.,Quercus macrolepis Kotschy,Quercus ithaburensis Decne. subsp. macrolepis (Kotschy) Hedge & Yalt.
+QPET,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,petraea, (Mattusch.) Liebl,,,Quercus petraea (Mattusch.) Liebl,Quercus petraea (Mattuschka) Liebl. sensu lato,Quercus petraea (Matt.) Liebl.
+QPETh,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,petraea, (Mattusch.) Liebl,huguetiana,Franco & G. López,Quercus petraea (Matt.) Liebl. subsp. huguetiana Franco & G. López,,Quercus petraea (Matt.) Liebl. subsp. huguetiana Franco & G.López
+QPETo,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,petraea, (Mattuschka) Liebl.,polycarpa,(Schur) Soó,Quercus petraea (Matt.) Liebl. subsp. iberica (Steven ex M. Bieb.) Krassiln.,,Quercus petraea (Matt.) Liebl. subsp. iberica (Steven ex M.Bieb.) Krassiln.
+QPETe,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,petraea, (Mattusch.) Liebl,petraea,,Quercus petraea (Matt.) Liebl. subsp. petraea,,Quercus petraea (Matt.) Liebl. subsp. petraea
+QPUB,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,pubescens, Willd.,,,Quercus pubescens Willd.,Quercus pubescens Willd. sensu lato,Quercus pubescens Willd.
+QPUBp,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,pubescens, Willd.,pubescens,,,,
+QPUBv,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,pubescens, Willd.,virgiliana,,,,
+QPYR,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,pyrenaica, Willd.,,,Quercus pyrenaica Willd.,,Quercus pyrenaica Willd.
+QROB,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,robur, L.,,,Quercus robur L.,Quercus tobur L. sensu lato,Quercus robur L.
+QROBb,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,robur, L.,brutia,(Ten.) O. Schwartz,Quercus robur L. subsp. brutia (Ten.) O. Schwarz,,Quercus robur L. subsp. brutia (Ten.) O.Schwarz
+QROBp,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,robur, L.,pedunculiflora,(K. Koch) Menitsky,Quercus robur L. subsp. pedunculiflora (K. Koch) Menitsky,,Quercus robur L. subsp. pedunculiflora (K.Koch) Menitsky
+QROBr,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,robur, L.,robur,,Quercus robur L. subsp. robur,,Quercus robur L. subsp. robur
+QSUB,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,suber, L.,,,Quercus suber L.,,Quercus suber L.
+QTRO,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,trojana, Webb,,,Quercus trojana Webb,Quercus trojana Webb sensu lato,Quercus trojana Webb
+QTROe,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,trojana, Webb,euboica,(Papaioannou) K.I. Chr.,Quercus trojana Webb subsp. euboica (Papaioann.) K. I. Chr.,,Quercus trojana Webb subsp.euboica (Papaioann.) K.I.Chr.
+QTROt,Magnoliopsida,Rosanae,Fagales,Fagaceae,Quercus,trojana, Webb,trojana,,Quercus trojana Webb subsp. trojana,,Quercus trojana Webb subsp. trojana
+RALA,Magnoliopsida,Rosanae,Rosales,Rhamnaceae,Rhamnus,alaternus, L.,,,,Rhamnus alaternus L.,
+RCAT,Magnoliopsida,Rosanae,Rosales,Rhamnaceae,Rhamnus,cathartica, L.,,,,Rhamnus catharticus L.,
+RPER,Magnoliopsida,Rosanae,Rosales,Rhamnaceae,Rhamnus,persicifolia, Moris,,,,,
+RPON,Magnoliopsida,Asteranae,Ericales,Ericaceae,Rhododendron,ponticum, L.,,,,,
+RPONb,Magnoliopsida,Asteranae,Ericales,Ericaceae,Rhododendron,ponticum, L.,baeticum,(Boiss. & Reut.) Hand.-Mazz. ,Rhododendron ponticum subsp. baeticum (Boiss. & Reut.) Hand.-Mazz.,,Rhododendron  ponticum L.  subsp. baeticum (Boiss. & Reut.) Hand.-Mazz. 
+SALB,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,alba, L.,,,Salix alba L.,Salix alba L.,
+SAMP,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,amplexicaulis, Bory,,,Salix amplexicaulis Bory,Salix amplexicaulis Bory & Chaub.,
+SAPE,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,apennina, A.K.Skvortsov,,,Salix apennina A. K. Skvortsov,,
+SAPP,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,appendiculata, Vill.,,,Salix appendiculata Vill.,,
+SARR,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,arrigonii, Brullo,,,Salix arrigonii Brullo,,Unresolved
+SCAP,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,caprea, L.,,,,,
+SCAPc,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,caprea, L.,caprea,,Salix caprea L. subsp. caprea,Salix caprea L.,
+SCIN,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,cinerea, L.,,,Salix cinerea L.,Salix cinerea L.,
+SCINc,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,cinerea, L.,cinerea,,Salix cinerea L. subsp. cinerea,Salix cinerea L. sensu lato,
+SELE,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,eleagnos, Scop.,,,Salix elaeagnos Scop.,Salix elaeagnos Scop. sensu lato,
+SELEe,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,eleagnos, Scop.,eleagnos,,Salix elaeagnos Scop.,,
+SFRA,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,fragilis, L.,,,S. euxina I. V. Belyavea,Salix fragilis L.,Hybrid
+SGUS,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,gussonei, Brullo & Spampinato,,,Salix gussonei Brullo & Spamp.,,
+SPED,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,pedicellata, Desf.,,,Salix pedicellata Desf.,,
+SPEN,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,pentandra, L.,,,Salix pentandra L.,Salix pentandra L.,
+SPUR,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,purpurea, L.,,,Salix purpurea L,,
+SSAL,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,salviifolia, Brot.,,,Salix salviifolia Brot.,,
+SATR,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,triandra, L.,,,Salix triandra L. subsp. triandra,Salix triandra L.,
+SVIM,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,viminalis, L.,,,Salix viminalis L.,,
+SXAN,Magnoliopsida,Rosanae,Malpighiales,Salicaceae,Salix,xanthicola, K.I. Christensen,,,Salix xanthicola K. I. Chr.,,unresolved
+SNIG,Magnoliopsida,Asteranae,Dipsacales,Adoxaceae,Sambucus,nigra, L.,,,,Sambucus nigra L.,
+SRAC,Magnoliopsida,Asteranae,Dipsacales,Adoxaceae,Sambucus,racemosa, L.,,,,,
+SETR,Magnoliopsida,Rosanae,Sapindales,Anacardiaceae,Searsia,tripartita, (Ucria) Moffett,,,,,Searsia pentaphylla (Jacq.) F.A.Barkley
+SARI,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,aria, (L.) Crantz,,,Sorbus aria (L.) Crantz,Sorbus aria (L.) Crantz sensu lato,Sorbus aria (L.) Crantz
+SARIa,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,aria, (L.) Crantz,aria,,Sorbus aria (L.) Crantz subsp. aria,,Sorbus aria (L.) Crantz subsp. aria
+SARIl,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,aria, (L.) Crantz,lanifera,(Borbás) Kárpáti,Sorbus aria (L.) Crantz subsp. lanifera (Borbás) Kárpáti,,Sorbus aria (L.) Crantz subsp. lanifera (Borbás) Kárpáti
+SAUC,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,aucuparia, L.,,,Sorbus aucuparia L.,Sorbus aucuparia L. sensu lato,Sorbus aucuparia L.
+SAUCa,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,aucuparia, L.,aucuparia,,Sorbus aucuparia L. subsp. aucuparia,,Sorbus aucuparia L. subsp. aucuparia
+SAUCp,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,aucuparia, L.,praemorsa,(Guss.) Nyman,Sorbus aucuparia L. subsp. praemorsa (Guss.) Nyman,,Sorbus aucuparia L. subsp. praemorsa (Guss.) Nyman
+SAUS,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,austriaca, (G. Beck) Prain & al.,,,Sorbus austriaca (G. Beck) Prain & al.,,Sorbus austriaca (G. Beck) Prain & al.
+SAUSa,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,austriaca, (G. Beck) Prain & al.,austriaca,,Sorbus austriaca (Beck) Prain & al. subsp. austriaca,,Sorbus austriaca (G. Beck) Prain & al. subsp. austriaca
+SDOM,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,domestica, L.,,,Sorbus domestica L.,Sorbus domestica L.,
+SGRA,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,graeca, (Spach) Schauer,,,Sorbus graeca (Spach) Schauer,Sorbus aria (L.) Crantz sensu lato,
+SLAT,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,latifolia, (Lam.) Pers.,,,Sorbus latifolia (Lam.) Pers.,,
+SMOU,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,mougeotii, Soy.-Will. & Godr.,,,Sorbus mougeotii Soy.-Will. & Godr.,,
+STOR,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,torminalis, (L.) Crantz,,,Sorbus torminalis (L.) Crantz,Sorbus torminalis (L.) Crantz,
+SUMB,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,umbellata, (Desf.) Fritsch,,,Sorbus umbellata (Desf.) Fritsch,Sorbus umbellata (Desf.) Fritsch sensu lato,
+SUMBb,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,umbellata, (Desf.) Fritsch,baldaccii,(Schneider)  Zinserl.,Sorbus baldaccii (C. K. Schneid.) Zinserl.,,unresolved
+SUMBk,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,umbellata, (Desf.) Fritsch,koevessii,(Pénzes) Kárpáti,Sorbus umbellata (Desf.) Fritsch subsp. koevessii (Pénzes) Kárpáti,,Sorbus umbellata (Desf.) Fritsch subsp. koevessii (Pénzes) Kárpáti
+SUMBu,Magnoliopsida,Rosanae,Rosales,Rosaceae,Sorbus,umbellata, (Desf.) Fritsch,umbellata,,Sorbus umbellata (Desf.) Fritsch subsp. umbellata,,
+SJUN,Magnoliopsida,Rosanae,Fabales,Fabaceae,Spartium,junceum, L.,,,,,
+SPIN,Magnoliopsida,Rosanae,Crossosomatales,Staphyleaceae,Staphylea,pinnata, L.,,,,Staphylea pinnata L.,
+SOFF,Magnoliopsida,Asteranae,Ericales,Styracaceae,Styrax,officinalis, L.,,,Styrax officinalis L.,Styrax officinalis L.,
+TAFR,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,africana, Poiret,,,,,
+TARB,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,arborea, Ehrenb. ex Bunge,,,,,
+TBOV,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,boveana, Bunge,,,,,
+TCAN,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,canariensis, Willd.,,,,,
+TDAL,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,dalmatica, Baum,,,,,
+TGAL,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,gallica, L.,,,,,
+THAM,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,hampeana, Boiss. & Heldr.,,,,Tamarix hampeana Boiss. & Heldr.,
+TLAX,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,laxa, Willd.,,,,,Tamarix laxa Willd.
+TMAS,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,mascatensis, Bunge,,,,Tamarix mascatensis Bunge,
+TMIN,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,minoa," J.L. Villar, Turland, Juan, Gaskin, M.A. Alonso & M.B. Crespo",,,,,New described species
+TPAR,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,parviflora, DC.,,,,Tamarix tetrandra Pallas ex Bieb. sensu lato,
+TPAS,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,passerinoides, Del. ex Desf.,,,,Tamarix passerinoides Del. ex Desf. sensu lato,
+TRAM,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,ramosissima, Ledeb.,,,,Tamarix ramosissima Ledeb. sensu lato,
+TSMY,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,smyrnensis, Bunge,,,,Tamarix ramosissima Ledeb. sensu lato,
+TTEG,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,tetragyna, Ehrenb.,,,,Tamarix tetragyna Ehrenb.,
+TTEN,Magnoliopsida,Caryophyllanae,Caryophyllales,Tamaricaceae,Tamarix,tetrandra, Pallas ex Bieb.,,,,Tamarix tetrandra Pallas ex Bieb. sensu lato,
+TBAC,Pinopsida,Pinidae,Pinales,Taxaceae,Taxus,baccata, L.,,,Taxus baccata L.,Taxus baccata L.,Taxus baccata L.
+TART,Pinopsida,Pinidae,Pinales,Cupressaceae,Tetraclinis,articulata, (Vahl) Masters,,,Tetraclinis articulata (Vahl) Mast.,,Tetraclinis articulata (Vahl) Mast.
+TCOR,Magnoliopsida,Rosanae,Malvales,Malvaceae,Tilia,cordata, Miller,,,,,Tilia cordata Miller
+TPLA,Magnoliopsida,Rosanae,Malvales,Malvaceae,Tilia,platyphyllos, Scop.,,,,,
+TPLAc,Magnoliopsida,Rosanae,Malvales,Malvaceae,Tilia,platyphyllos, Scop.,cordifolia,(Besser) C.K. Schneider,,,Tilia platyphyllos Scop. subsp. cordifolia (Besser) C.K. Schneider
+TPLAl,Magnoliopsida,Rosanae,Malvales,Malvaceae,Tilia,platyphyllos, Scop.,platyphyllos,,,,Tilia platyphyllos Scop. subsp. platyphyllos
+TPLAs,Magnoliopsida,Rosanae,Malvales,Malvaceae,Tilia,platyphyllos, Scop.,pseudorubra,C.K. Schneider,,,Tilia platyphyllos Scop. subsp. pseudorubra C.K. Schneider
+TTOM,Magnoliopsida,Rosanae,Malvales,Malvaceae,Tilia,tomentosa, Moench,,,,Tilia tomentosa Moench,Tilia tomentosa Moench
+UCAN,Magnoliopsida,Rosanae,Rosales,Ulmaceae,Ulmus,canescens, Melville,,,Ulmus minor Miller subsp. canescens (Melville) Browicz & Ziel.,,Ulmus canescens Melville
+UGLA,Magnoliopsida,Rosanae,Rosales,Ulmaceae,Ulmus,glabra, Hudson,,,Ulmus glabra Huds.,Ulmus glabra Hudson,
+ULAE,Magnoliopsida,Rosanae,Rosales,Ulmaceae,Ulmus,laevis, Pallas,,,Ulmus laevis Pall.,,
+UMIN,Magnoliopsida,Rosanae,Rosales,Ulmaceae,Ulmus,minor, Mill.,,,Ulmus minor Mill. subsp. minor,,
+UPRO,Magnoliopsida,Rosanae,Rosales,Ulmaceae,Ulmus,procera, Salisb.,,,Ulmus procera Salisb.,,Ulmus minor Mill.
+VAGN,Magnoliopsida,Asteranae,Lamiales,Lamiaceae,Vitex,agnus-castus, L.,,,Vitex agnus-castus L.,Vitex agnus-castus L.,Vitex agnus-castus L.
+ZABE,Magnoliopsida,Rosanae,Rosales,Ulmaceae,Zelkova,abelicea, (Lam.) Boiss.,,,Zelkova abelicea (Lam.) Boiss.,,
+ZSIC,Magnoliopsida,Rosanae,Rosales,Ulmaceae,Zelkova,sicula," Di Pasquale, Garfi & Quézel",,,Zelkova sicula Di Pasq. & al.,,

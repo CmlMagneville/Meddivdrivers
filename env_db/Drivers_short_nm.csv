@@ -1,0 +1,55 @@
+Drivers_nm,Drivers_short_nm
+Depth_mean,Depth mean
+Depth_stdev,Depth sd
+Elv_mean,Elevation mean
+Elv_stdev,Elevation sd
+OC_mean,OC mean
+OC_stdev,OC sd
+pH_mean,pH mean
+pH_stdev,pH sd
+VWC_mean,VWC mean
+VWC_stdev,VWC sd
+Pr_FInt_2000_2023_mean,Fire intensity mean
+Pr_FInt_2000_2023_sd,Fire intensity sd
+Pr_FSurf_2000_2023_pixels,Fire surface
+Past_CCVelShortTerm_mean.voccMag,Cl. Velocity Holocene
+Past_CCVelLGM_mean.voccMag,Cl. Velocity LGM
+Past_CCVelHolocene_mean.voccMag,Cl. Velocity YD increase
+Past_CCVelYoungerDryas_mean.voccMag,Cl. Velocity YD decrease
+Past_MAT_sd,Past MAT sd
+Past_TAP_sd,Past TAP sd
+Present_AI_mean,AI mean
+Present_AI_stdev,AI sd
+Present_MAT_mean,MAT mean
+Present_MAT_stdev,MAT sd
+Present_TAP_mean,TAP mean
+Present_TAP_stdev,TAP sd
+Past_Perc_croplands_Weighted_Mean,Past % croplands mean
+Past_Perc_croplands_Weighted_Sd,Past % croplands sd
+Past_Perc_dense_settlements_Weighted_Mean,Past % settlements mean
+Past_Perc_dense_settlements_Weighted_Sd,Past % settlements sd
+Past_Perc_rangelands_Weighted_Mean,Past % rangelands mean
+Past_Perc_rangelands_Weighted_Sd,Past % rangelands sd
+Past_Perc_seminatural_lands_Weighted_Mean,Past % seminat mean
+Past_Perc_seminatural_lands_Weighted_Sd,Past % seminat sd
+Past_Perc_villages_Weighted_Mean,Past % villages mean
+Past_Perc_villages_Weighted_Sd,Past % villages sd
+Past_Perc_wild_lands_Weighted_Mean,Past % wildlands mean
+Past_Perc_wild_lands_Weighted_Sd,Past % wildlands sd
+Present_Perc_croplands_Weighted_Mean,Pres. % croplands mean
+Present_Perc_croplands_Weighted_Sd,Pres.% croplands sd
+Present_Perc_dense_settlements_Weighted_Mean,Pres.% settlements mean
+Present_Perc_dense_settlements_Weighted_Sd,Pres.% settlements sd
+Present_Perc_rangelands_Weighted_Mean,Pres.% rangelands mean
+Present_Perc_rangelands_Weighted_Sd,Pres.% rangelands sd
+Present_Perc_seminatural_lands_Weighted_Mean,Pres.% seminat mean
+Present_Perc_seminatural_lands_Weighted_Sd,Pres.% seminat sd
+Present_Perc_villages_Weighted_Mean,Pres.% villages mean
+Present_Perc_villages_Weighted_Sd,Pres.% villages sd
+Present_Perc_wild_lands_Weighted_Mean,Pres.% wildlands mean
+Present_Perc_wild_lands_Weighted_Sd,Pres.% wildlands sd
+Pr_Pop_2020_mean,Human pop 
+Pr_RatePop_2020_mean,Growth rate pop
+HerbCons_sum,Herbivores Consumption
+HerbRichn_sum,Herbivores Richness
+Pr_FCon_percentage_percentage,Forest Connectivity
