@@ -1,0 +1,46 @@
+Package: Meddivdrivers
+Title: Establish the drivers of Mediterranean forests diversity
+Version: 0.0.0.9000
+Authors@R: 
+    person("Camille", "Magneville", , "camille.magneville@bio.au.dk", 
+    role = c("aut", "cre"))
+Description: Study the drivers of Euro-Mediterranean functional and 
+  phylogenetic diversity - including past stability, current habitat 
+  characteristics, current disturbances, past and present anthropic impact. 
+  Leading a multi diversity and multi taxa approach. This study is part of 
+  the INTEGRADIV project.
+License: MIT + file LICENSE
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    ale,
+    ape,
+    doParallel,
+    dplyr,
+    FactoMineR,
+    foreach,
+    funbiogeo,
+    ggmosaic,
+    ggplot2,
+    ggsignif,
+    ggstatsplot,
+    here,
+    iml,
+    mFD,
+    mgcv,
+    miceRanger,
+    patchwork,
+    pdp,
+    performance,
+    picante,
+    piecewiseSEM,
+    ranger,
+    reshape,
+    reshape2,
+    sobolMDA,
+    stats,
+    taxize,
+    tibble
