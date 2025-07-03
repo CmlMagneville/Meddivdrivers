@@ -150,6 +150,13 @@ restricted_envdriv_full_db$Pr_FSurf_2000_2023_pixels <- as.numeric(restricted_en
 # Change Herbivore richness to integer:
 restricted_envdriv_full_db$HerbRichn_sum <- as.integer(restricted_envdriv_full_db$HerbRichn_sum)
 
+# Change soil and topo to numeric:
+restricted_envdriv_full_db$Depth_mean <- as.numeric(restricted_envdriv_full_db$Depth_mean)
+restricted_envdriv_full_db$Depth_stdev <- as.numeric(restricted_envdriv_full_db$Depth_stdev)
+restricted_envdriv_full_db$Elv_mean <- as.numeric(restricted_envdriv_full_db$Elv_mean)
+restricted_envdriv_full_db$Elv_stdev <- as.numeric(restricted_envdriv_full_db$Elv_stdev)
+restricted_envdriv_full_db$Pr_FCon_percentage_percentage <- as.numeric(restricted_envdriv_full_db$Pr_FCon_percentage_percentage)
+
 ## Save this final environmental db:
 saveRDS(restricted_envdriv_full_db,
         here::here("transformed_data", "env_db",
